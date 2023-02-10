@@ -1,0 +1,15 @@
+.rasm{
+  height: 70px;
+  width: 70px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.main{
+  max-width: 500px;
+  overflow-x: scroll;
+}
+
+.main::-webkit-scrollbar{
+  display: none;
+}
